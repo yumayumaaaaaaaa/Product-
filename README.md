@@ -1,4 +1,4 @@
-# Japan Life Expectancy Analysis 🇯🇵
+# Japan Life Expectancy Analysis
 
 ## 概要
 本プロジェクトでは、日本の平均寿命に関するデータを用いて、都道府県ごとの傾向や影響要因について分析を行いました。
