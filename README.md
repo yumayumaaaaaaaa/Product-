@@ -3,7 +3,7 @@
 ## 概要
 本プロジェクトでは、日本の平均寿命に関するデータを用いて、都道府県ごとの傾向や影響要因について分析を行いました。
 
-データは政府統計ポータルサイト [e-Stat](https://www.e-stat.go.jp/) より取得し、`Japan_life_expectancy.csv` という形式で整形。Python（Pandas・Matplotlib）を使って可視化や統計分析を行いました。
+データはkaggleを参考にして、政府統計ポータルサイト [e-Stat](https://www.e-stat.go.jp/) より取得し、`Japan_life_expectancy.csv` という形式で整形。Python（Pandas・Matplotlib）を使って可視化や統計分析を行いました。
 
 ## 使用データ
 - ファイル名: [`Japan_life_expectancy.csv`](https://github.com/user-attachments/files/20437255/Japan_life_expectancy.csv)
@@ -23,4 +23,4 @@
 ### 🧩 課題に対するアプローチ
 - **仮説**：医療機関の数が多い地域では平均寿命が長いのでは？
 - **方法**：医療機関数と平均寿命の散布図を描画して、相関の有無を視覚的に検証。
-- **結果**：都道府県によってばらつきはあるが、一定の関連性が見られた。
+- **結果**：今回の検証では特に関連性が見られなかった。
