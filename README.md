@@ -19,8 +19,8 @@
 
 - Python 3
 - pandas
-- matplotlib / seaborn
-- Jupyter Notebook / Google Colab
+- matplotlib
+- Google Colab
 - Excel（CSVファイルの作成）
 
 ---
